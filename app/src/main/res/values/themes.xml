@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Cis" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/catppuccin_peach</item>
+        <item name="colorPrimaryVariant">@color/catppuccin_peach</item>
+        <item name="colorOnPrimary">@color/catppuccin_base</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/catppuccin_peach</item>
+        <item name="colorSecondaryVariant">@color/catppuccin_peach</item>
+        <item name="colorOnSecondary">@color/catppuccin_base</item>
+        <!-- Status bar and Navigation bar color (Edge-to-Edge). -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowBackground">@color/catppuccin_base</item>
+        <item name="android:textColor">@color/catppuccin_text</item>
+        <item name="colorSurface">@color/catppuccin_surface0</item>
+        <item name="colorOnSurface">@color/catppuccin_text</item>
+    </style>
+</resources>

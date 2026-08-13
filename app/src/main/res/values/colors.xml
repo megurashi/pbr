@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Catppuccin Frappe Colors -->
+    <color name="catppuccin_base">#303446</color>
+    <color name="catppuccin_surface0">#414559</color>
+    <color name="catppuccin_text">#c6d0f5</color>
+    <color name="catppuccin_subtext0">#a5adce</color>
+    <color name="catppuccin_peach">#ef9f76</color>
+    <color name="catppuccin_red">#e78284</color>
+    <color name="catppuccin_overlay0">#737994</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
